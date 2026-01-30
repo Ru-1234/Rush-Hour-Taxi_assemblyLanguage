@@ -5,11 +5,11 @@ Grid-based board representation using arrays\
 Vehicle movement with collision and boundary checks\
 Keyboard-controlled gameplay\
 Step-by-step puzzle-solving logic\
-Board updates in the console\
+Board updates in the console
 
 # Technologies & Concepts Used:
 x86 Assembly Language\
 Irvine32 Library (console I/O, delays, screen handling)\
 Procedures and stack usage\
 Loops, conditionals, and branching\
-Memory and register-level operations\
+Memory and register-level operations
